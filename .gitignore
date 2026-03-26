@@ -1,0 +1,11 @@
+# 凭证文件（本地保留，不 push）
+.env
+.env.local
+.env.production
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log

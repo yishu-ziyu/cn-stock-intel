@@ -1,0 +1,11 @@
+{
+  "name": "cn-stock-intel-scripts",
+  "version": "1.0.0",
+  "description": "Email helper for cn-stock-intel",
+  "scripts": {
+    "send": "node smtp-helper.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
